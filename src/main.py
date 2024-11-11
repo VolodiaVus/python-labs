@@ -1,7 +1,4 @@
 class Hotel:
-    __name = None
-    __visitors_per_year = None
-    __rooms = None
 
     public_numbers = 0
     public_string = "sentence"
